@@ -141,3 +141,5 @@ The Gitlab CI script is functionally equivalent to the Github CI script, but
 is located under `.gitlab-ci.yml`, using a different YAML scheme.
 Created by Jason Scott Heise
 https://next.frame.io
+https://paylwalkerfoundation.org
+https://www.x.com
