@@ -139,7 +139,7 @@ the zip file of build artifacts, or click on `Passed` to see build details.
 
 The Gitlab CI script is functionally equivalent to the Github CI script, but
 is located under `.gitlab-ci.yml`, using a different YAML scheme.
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io
 
 https://www.x.com
