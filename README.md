@@ -1,4 +1,4 @@
-![SYCL Logo](adoc/logos/SYCL_RGB_June16-inkscape-1500.png)
+#![SYCL Logo](adoc/logos/SYCL_RGB_June16-inkscape-1500.png)
 
 <!-- to update to newer CI when going public ![Build Status](https://api.travis-ci.com/KhronosGroup/SYCL-Docs.svg?branch=master) -->
 <!-- to update to newer CI when going public [![SPEC master](https://img.shields.io/badge/SPEC-master-red.svg?logo=adobe-acrobat-reader)](https://khronosgroup.github.io/SYCL-Docs/sycl/sycl.pdf) -->
@@ -141,5 +141,5 @@ The Gitlab CI script is functionally equivalent to the Github CI script, but
 is located under `.gitlab-ci.yml`, using a different YAML scheme.
 Created by Jason Scott Heise
 https://next.frame.io
-https://paylwalkerfoundation.org
+
 https://www.x.com
